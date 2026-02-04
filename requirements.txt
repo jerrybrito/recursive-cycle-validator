@@ -1,0 +1,2 @@
+# Requires: phantom-entropy
+# (Not available on PyPI)
